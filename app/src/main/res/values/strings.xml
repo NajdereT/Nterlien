@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Nterlien</string>
+
+    <string name="about_me">Mijn naam is Najdère Joseph Terlien,
+    \nik ben geboren op 11 september 2000 in Port-au-prince, Haiti.
+    toen ik 1,5 jaar oud was kwam ik naar Nederland.
+    \nop dit moment doe ik de opleiding Applicatie ontwikkelink op Roc van Flevoland</string>
+
+    <string name="Motivation">Ik vind programmeren leuk om te doen en ik doe het ook in mijn vrije tijd.
+
+        \nben ik veel bezig met 3d modeling en ben ik ook geinteresseerd in game development
+    </string>
+    <string name="nmusic">Nmusic</string>
+    <string name="ncamera">Ncamera</string>
+    <string name="stagenl">StageNL</string>
+    <string name="nmusic_info">Nmusic is een hele mooie muziek app die snel en simpel is.
+        verbruikt niet veel van je batterij en heeft geen advertenties. </string>
+    <string name="stagenl_info">Een stage zoeken en alles bijhouden is voor veel ingewikkeld,
+        deze app helpt je ermee het houde de afspraken bij.</string>
+    <string name="ncamera_info">Ncamera is een app die laat zien welke handige camera functies er zijn zoals barcode scanner, landscape recognision,
+        en nog meer.
+
+    </string>
+
+    <string name="my_skills_programming">Ik bezit vooral over Java/Android maar ik heb ook ervaring met Html5/Css/Bootstrap.
+        op dit moment ben ik het meest gefocused op android development.daarvoor gebruik ik Java maar heb ook interesse in flutter en kotlin.
+        \n\nin mijn vrije tijd probeer ik ook met andere talen te werken zoals C# en Python, daar wil ook applicaties mee maken.
+    </string>
+    <string name="my_skills_3D">In mijn  vrije tijd houd ik me ook veel bezig met 3d modeling/texturing en rendering daarvoor werk ik voornaamlijk
+     met Blender3d en kan er heel goed mee overweg.\n\nOok maak ik gebruik van Zbrush, Google Skecthup, Substance painter, Daz3d en 3ds max.
+        ik heb al veel verschillende 3d renders gemaakt. \nGame development en animatie ben ik ook zeer geinteresseerd in.
+
+    </string>
+
+    <string name="telefoon">Telefoon: 0641896965</string>
+    <string name="email">Email: NajdereJ@live.nl</string>
+    <string name="adres">Adres: 1325NG, Almere</string>
+    <string name="renderings">Voornamelijk gebruik ik android studio voor het maken van android apps.</string>
+    <string name="blender_info">Blender is een open-source gratis 3d modeler/ texturer en renderer. het word gezien als een van de beste met de
+    hoeveelheid functies het heeft en hoe snel je iets moois kan maken. </string>
+    <string name="zbrush_info">Zbrush is de beste sculpting software die er is, niet alleen kan je organische modellen maken maar ook
+    hard surface zoals robots.</string>
+    <string name="daz3d_info">Daz3d is een gratis software om menselijke en dierlijke character te maken uit presets die je hevig kan bewerken,
+        zo kan je super realistische mensen of dieren maken.</string>
+    <string name="substance_painter_info">Substance painter is een realtime pbr texturing software die jouw gemakkelijk pbr materialen(textures)
+    laat maken voor jouw 3d modellen het is heel envoudig en krachtig dat is een van de redenen waarom het zo populair is.</string>
+
+    <string name="crash_info">Deze app is net gecrash in de log kan je zien hoe het is ontstaan en kan je de info naar ons toesturen zodat
+    wij er aan kunnen werken.</string>
+
+
+
+
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">Je app is gecrasht. jammer joh</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Herstart app</string>
+    <string name="customactivityoncrash_error_activity_close_app">Sluit app</string>
+    <string name="customactivityoncrash_error_activity_error_details">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Sluit</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Kopieer naar klemboord</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Gekopieerd naar klemboord</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error informatie</string>
+
+</resources>
